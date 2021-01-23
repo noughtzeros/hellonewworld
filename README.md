@@ -1,2 +1,0 @@
-# hellonewworld
-just another repository
